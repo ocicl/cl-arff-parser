@@ -1,0 +1,10 @@
+* cl-arff-parser
+
+A simple and easy to use arff (Attribute-Relation File Format) parser for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pieterw/cl-arff-parser.git   |
+| commit  | 8d9929a  |
+| systems | cl-arff-parser |
+|---------+-------------------------------------------|
+
